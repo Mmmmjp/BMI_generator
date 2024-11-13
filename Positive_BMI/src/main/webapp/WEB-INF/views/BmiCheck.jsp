@@ -5,6 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <title>ポジティブBMI診断</title>
+<link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
+
 </head>
 <body>
 
